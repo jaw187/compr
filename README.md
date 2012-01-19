@@ -22,8 +22,3 @@ console.log(compr.compare(d1,d2));
 console.log(compr.like(d1,d2));
 //true
 ```
-
-Docs
-----
-
-
