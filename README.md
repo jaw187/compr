@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jaw187/compr.png)](http://travis-ci.org/jaw187/compr)
 Compr
 =====
 Utilities to compare Javascript data
